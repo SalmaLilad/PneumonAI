@@ -178,7 +178,7 @@ This README was prepared with the assistance of an AI agent to enhance structure
 
 ---
 
-## ⚠️ License & Disclaimer
+##  License & Disclaimer
 
 This repository is for **educational and research use only**.  
 It is **not intended for clinical or diagnostic purposes**, and results should not be interpreted as medical advice.  
