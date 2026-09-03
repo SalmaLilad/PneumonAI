@@ -172,6 +172,18 @@ PneumonAI/
 This work was conducted as part of the **Stanford AIMI High School Internship**. We thank the AIMI team, our mentors, and the clinical collaborators who provided guidance and datasets.
 
 ---
+##  AI Assistance Disclosure
 
+This README was prepared with the assistance of an AI agent to enhance structure, clarity, and technical documentation quality. All project code, architecture, and experimental results were implemented, and verified by me without any AI use. I provided the outline, structure and content for this ReadME and the AI assistant was used exclusively for documentation, drafting, formatting, and summarization purposes.
+
+---
+
+## ⚠️ License & Disclaimer
+
+This repository is for **educational and research use only**.  
+It is **not intended for clinical or diagnostic purposes**, and results should not be interpreted as medical advice.  
+Researchers and students are encouraged to **fork, extend, or analyze** this work for non-commercial academic use.
+
+---
 *PneumonAI — Detect. Predict. Breathe Easy.*
 ```
