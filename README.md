@@ -7,7 +7,7 @@ PneumonAI, a Pneumonia classifier developed at Stanford AIMI Summer Internship P
 Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI)  
 High School Internship Research Project
 
-**Team:** Ashok, Bharat, Matthew, Rachel, Saanvi, Shankar, Sharan  
+**Team:** Ashok, Bharat, Matthew, Rachel, **Saanvi**, Shankar, Sharan  
 **Team Lead:** Natasha
 
 ---
